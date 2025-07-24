@@ -70,7 +70,7 @@ We may update this Privacy Policy from time to time. The latest version will alw
 
 ## 10. Contact
 
-For privacy-related inquiries, contact us at [your email or GitHub issues page].
+For privacy-related inquiries, contact us at ryancrearydev@gmail.com.
 
 ---
 
