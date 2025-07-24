@@ -62,7 +62,7 @@ We may update these Terms occasionally. Continued use of the App after updates m
 
 ## 9. Contact
 
-For questions, contact us at [your contact email or GitHub issues page].
+For questions, contact us at ryancrearydev@gmail.com.
 
 ---
 
